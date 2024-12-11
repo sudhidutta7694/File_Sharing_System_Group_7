@@ -3,7 +3,7 @@
 
 # How to use:
 - ## clone the repo
-    - $ git clone https://github.com/gitdhruba/PairWithPeer.git
+    - $ git clone https://github.com/sudhidutta7694/File_Sharing_System_Group_7.git
 - ## change the directory to "PairWithPeer"
     - $ cd PairWithPeer
 - ## install make
