@@ -1,0 +1,4 @@
+shared/*
+shared/public/*
+serverex
+clientex
